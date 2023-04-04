@@ -11,7 +11,7 @@ import Projects from "./pages/Projects";
 
 function App() {
   // URL should have YOUR HEROKU URL for your backend, make sure you include the trailing slash
-  const URL = "https://git.heroku.com/arcane-refuge-92219.git/";
+  const URL = "https://arcane-refuge-92219.herokuapp.com/";
 
   return (
     <div className="App">
